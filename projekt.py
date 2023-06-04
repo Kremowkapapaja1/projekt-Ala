@@ -6,5 +6,5 @@ from matplotlib.animation import FuncAnimation
 
 total_time = 10 #czas trwania animacji w sekundach
 delta_t = 0.1   #Krok czasowy w sekundach
-A = 10 #długość belki  
+A = 0 #odległość od startu  
 P = 100 #wartpść siły skupionej w Newtonach
